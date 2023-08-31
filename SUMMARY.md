@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
+* [👋 Hey! Welcome to 0x8C Wiki](README.md)
 
 ## About us
 

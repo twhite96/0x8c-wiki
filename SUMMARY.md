@@ -4,7 +4,7 @@
 
 ## About us
 
-* [🚀 1337 Hackers](about-us/vision-mission-and-focus/README.md)
+* [😈 1337 Hackers](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Focus](about-us/vision-mission-and-focus/focus.md)

@@ -1,9 +1,30 @@
-# 🚀 Vision, Mission & Focus
+---
+description: >-
+  Some of my favorite websites to get informed and to find interesting
+  perspectives on cybersecurity and InfoSec.
+---
 
-## Our Vision
+# 🚀 1337 Hackers
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+{% tabs %}
+{% tab title="Pen Testing" %}
+* &#x20;[Welcome to Securescape! - Knowledge Bank](https://blog.securescape.cc/about-us/welcome-to-securescape)
+* [What is ired.team notes ? - Red Team Notes](https://www.ired.team/)
+* [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
+{% endtab %}
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+{% tab title="Malware Analysis" %}
+* [Crow's Nest](https://www.crow.rip/)
+* [Complete NTAPI Implementation - Crow's Nest](https://www.crow.rip/crows-nest/malware-development/process-injection/ntapi-injection/complete-ntapi-implementation)
+{% endtab %}
+
+{% tab title="Computer Architecture" %}
+*
+{% endtab %}
+
+{% tab title="Cheatsheets" %}
+* [Certified Ethical Hacker Cheatsheet - CEH Cheatsheet](https://ceh.securescape.cc/)
+* [The Hacker Recipes](https://www.thehacker.recipes/)
+{% endtab %}
+{% endtabs %}
+

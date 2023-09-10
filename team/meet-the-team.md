@@ -1,7 +1,7 @@
 ---
 description: Some irrelevant, uninteresting facts about me
 cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+  https://images.unsplash.com/photo-1560732488-6b0df240254a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxzZXJ2ZXJ8ZW58MHx8fHwxNjk0MzIwODA2fDA&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 

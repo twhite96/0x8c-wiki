@@ -7,8 +7,8 @@ description: >-
 # 😈 1337 Hackers
 
 {% tabs %}
-{% tab title="Pen Testing" %}
-* &#x20;[Welcome to Securescape! - Knowledge Bank](https://blog.securescape.cc/about-us/welcome-to-securescape)
+{% tab title="Pentesting" %}
+* [Welcome to Securescape! - Knowledge Bank](https://blog.securescape.cc/about-us/welcome-to-securescape)
 * [What is ired.team notes ? - Red Team Notes](https://www.ired.team/)
 * [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
 {% endtab %}

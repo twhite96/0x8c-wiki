@@ -9,9 +9,9 @@ coverY: 0
 
 **You've probably met me around the internet somewhere but here are a few other things.**
 
-## Esme DeWalt
+## tiff
 
-👋 CEO — 💌 esme@company.com — 🇺🇸 San Francisco (GMT-7)
+Hacker, curmudgeon, home labber, self-hosting shit when I should be working.
 
 ![Me, as I see it](../.gitbook/assets/11DE5F10-90E9-449C-83DB-E4AFF23CA3B1.JPG)
 

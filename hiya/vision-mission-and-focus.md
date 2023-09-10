@@ -19,7 +19,9 @@ description: >-
 {% endtab %}
 
 {% tab title="Computer Architecture" %}
-*
+* [0xRick's Blog](https://0xrick.github.io/)
+* [Shotgun Labs](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
+* [Cas van Cooten](https://casvancooten.com/)
 {% endtab %}
 
 {% tab title="Cheatsheets" %}

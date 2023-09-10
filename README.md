@@ -1,8 +1,7 @@
 ---
 description: This is a place for information dumps and links to relevant topics.
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
+cover: .gitbook/assets/pexels-tima-miroshnichenko-5380618.jpg
+coverY: -21
 layout:
   cover:
     visible: true

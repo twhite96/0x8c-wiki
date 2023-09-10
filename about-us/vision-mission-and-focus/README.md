@@ -4,7 +4,7 @@ description: >-
   perspectives on cybersecurity and InfoSec.
 ---
 
-# 🚀 1337 Hackers
+# 😈 1337 Hackers
 
 {% tabs %}
 {% tab title="Pen Testing" %}

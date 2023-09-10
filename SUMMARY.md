@@ -15,7 +15,7 @@
 
 ## Team
 
-* [👋 Whoami](team/meet-the-team.md)
+* [🗣 Whoami](team/meet-the-team.md)
 
 ## Collaborating
 

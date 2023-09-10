@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 👋 Whoami
+# 🗣 Whoami
 
 **You've probably met me around the internet somewhere but here are a few other things.**
 

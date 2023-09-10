@@ -11,7 +11,7 @@ coverY: 0
 
 ## tiff
 
-Hacker, curmudgeon, home labber, self-hosting shit when I should be working.
+Hacker, curmudgeon, home labber, self-hosting stuff when I should be working.
 
 ![Me, as I see it](../.gitbook/assets/11DE5F10-90E9-449C-83DB-E4AFF23CA3B1.JPG)
 

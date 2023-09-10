@@ -1,4 +1,4 @@
-# 💖 Values
+# 🚩 Projects for Noobs
 
 ## Our Values
 

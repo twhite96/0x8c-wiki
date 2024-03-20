@@ -5,7 +5,7 @@ cover: >-
 coverY: 0
 ---
 
-# 🗣 Whoami
+# 🗣️ Whoami
 
 **You've probably met me around the internet somewhere but here are a few other things.**
 
@@ -18,7 +18,7 @@ Hacker, curmudgeon, home labber, self-hosting stuff when I should be working.
 ### Bio
 
 {% hint style="info" %}
-**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+If you'd like to know more, look over here!&#x20;
 {% endhint %}
 
 

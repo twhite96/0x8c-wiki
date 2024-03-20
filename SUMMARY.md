@@ -13,14 +13,16 @@
     * [Intercepting JWTs](hiya/values/pentesting-projects/intercepting-jwts.md)
   * [AppSec Projects](hiya/values/appsec-projects.md)
 
-## Team
+## FAQs
 
-* [🗣 Whoami](team/meet-the-team.md)
+* [🗣️ Whoami](faqs/meet-the-team.md)
 
-## Collaborating
+## COURSES
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [TCM Security](courses/tcm-security/README.md)
+  * [🛡️ Practical  Web Application and Security Testing](courses/tcm-security/practical-web-application-and-security-testing.md)
+* [🤝 How we Work Together](courses/how-we-work-together.md)
+* [📅 Meetings](courses/meetings.md)
 
 ## Policies
 

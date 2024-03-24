@@ -39,10 +39,8 @@ For us M1 plebs, however, there is a simpler solution that is lightweight enough
 ### The OSes You'll Need
 
 {% hint style="info" %}
-[UTM has its own gallery that you can browse to install most of the VMs used in this course. However, an ISO is probably your best bet.](#user-content-fn-1)[^1]
+UTM has its own gallery that you can browse to install most of the vms used in this course. However, an iso is probably your best bet. There are two vms you'll need isos for:
 {% endhint %}
-
-There are two VMs you'll need ISOs for:
 
 * Kali Linux
 * Ubuntu Server
@@ -70,6 +68,3 @@ This tripped me up a bit. I watched a YouTube video on it but found that Kali ha
 
 {% embed url="https://youtu.be/U09soewiu18" %}
 
-
-
-[^1]: 

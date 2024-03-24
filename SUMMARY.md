@@ -20,10 +20,13 @@
 ## COURSES
 
 * [TCM Security](courses/tcm-security/README.md)
-  * [🛡️ Practical  Web Application and Security Testing](courses/tcm-security/practical-web-application-and-security-testing.md)
-* [🤝 How we Work Together](courses/how-we-work-together.md)
-* [📅 Meetings](courses/meetings.md)
+  * [🛡️ Practical  Web Application and Security Testing](courses/tcm-security/practical-web-application-and-security-testing/README.md)
+    * [😡 Frustrations for M-Series Chip Macs](courses/tcm-security/practical-web-application-and-security-testing/frustrations-for-m-series-chip-macs.md)
 
-## Policies
+## PROJECTS
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🚦 CLIs](projects/clis.md)
+
+## 🗞️ CERTIFICATES
+
+* [Certs](certificates/certs.md)

@@ -30,3 +30,13 @@
 ## 🗞️ CERTIFICATES
 
 * [Certs](certificates/certs.md)
+
+## ✒️ Writeups
+
+* [📦 HackTheBox](writeups/hackthebox/README.md)
+  * [🎓 HTB Academy](writeups/hackthebox/htb-academy/README.md)
+    * [Page 4](writeups/hackthebox/htb-academy/page-4.md)
+  * [🏴‍☠️ HTB CTFs](writeups/hackthebox/htb-ctfs/README.md)
+    * [Page 2](writeups/hackthebox/htb-ctfs/page-2.md)
+* [🧃 OWASP Juice Shop](writeups/owasp-juice-shop/README.md)
+  * [Page 1](writeups/owasp-juice-shop/page-1.md)

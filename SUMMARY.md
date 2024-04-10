@@ -35,7 +35,8 @@
 
 * [📦 HackTheBox](writeups/hackthebox/README.md)
   * [🎓 HTB Academy](writeups/hackthebox/htb-academy/README.md)
-    * [Page 4](writeups/hackthebox/htb-academy/page-4.md)
+    * [🚉 Tracks](writeups/hackthebox/htb-academy/tracks/README.md)
+      * [Page 4](writeups/hackthebox/htb-academy/tracks/page-4.md)
   * [🏴‍☠️ HTB CTFs](writeups/hackthebox/htb-ctfs/README.md)
     * [Page 2](writeups/hackthebox/htb-ctfs/page-2.md)
 * [🧃 OWASP Juice Shop](writeups/owasp-juice-shop/README.md)

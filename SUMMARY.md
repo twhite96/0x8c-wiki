@@ -48,9 +48,7 @@
           * [2️⃣ Tier 2](writeups/hackthebox/htb-academy/very-easy-boxes/starting-point/1-tier-1/2-tier-2.md)
         * [🚉 Tracks](writeups/hackthebox/htb-academy/very-easy-boxes/starting-point/tracks/README.md)
           * [👼 Beginner Track](writeups/hackthebox/htb-academy/very-easy-boxes/starting-point/tracks/beginner-track.md)
-      * [🏴‍☠️ HTB CTFs](writeups/hackthebox/htb-academy/very-easy-boxes/htb-ctfs/README.md)
-        * [Page 2](writeups/hackthebox/htb-academy/very-easy-boxes/htb-ctfs/page-2.md)
-        * [🧃 OWASP Juice Shop](writeups/hackthebox/htb-academy/very-easy-boxes/htb-ctfs/owasp-juice-shop/README.md)
-          * [Page 1](writeups/hackthebox/htb-academy/very-easy-boxes/htb-ctfs/owasp-juice-shop/page-1.md)
-
-## Group 1
+  * [🏴‍☠️ HTB CTFs](writeups/hackthebox/htb-ctfs/README.md)
+    * [Page 2](writeups/hackthebox/htb-ctfs/page-2.md)
+    * [🧃 OWASP Juice Shop](writeups/hackthebox/htb-ctfs/owasp-juice-shop/README.md)
+      * [Page 1](writeups/hackthebox/htb-ctfs/owasp-juice-shop/page-1.md)

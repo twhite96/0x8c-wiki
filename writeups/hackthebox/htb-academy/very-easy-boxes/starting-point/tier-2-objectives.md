@@ -1,9 +1,9 @@
-# Starting Point
+# 🚴 Tier 2 Objectives
 
-## Our Vision
+## Our Focus
 
 {% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
+**GitBook tip:** a good focus statement tells people what you're working on **right now** to get closer to achieving your vision and fulfilling your mission.
 {% endhint %}
 
 Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.

@@ -20,7 +20,7 @@ layout:
 
 # 👋 Hey! Welcome to 0x8C Workbook
 
-{% hint style="info" %}
+{% hint style="success" %}
 Most of my main work will be on [my blog ](https://0x8c.org\))and my [cyber notes site](https://notes.0xda.org) This site will be a living document of things I have either worked on and discovered, or found on the web. You can alos find out more about me over [here](https://about.0x8c.org).
 {% endhint %}
 

@@ -11,6 +11,7 @@ description: >-
 * [Welcome to Securescape! - Knowledge Bank](https://blog.securescape.cc/about-us/welcome-to-securescape)
 * [What is ired.team notes ? - Red Team Notes](https://www.ired.team/)
 * [HackTricks - HackTricks](https://book.hacktricks.xyz/welcome/readme)
+* [HackTheBox OSCP Preparation](https://rana-khalil.gitbook.io/hack-the-box-oscp-preparation/linux-boxes/lame-writeup-w-o-metasploit)
 {% endtab %}
 
 {% tab title="Malware Analysis" %}

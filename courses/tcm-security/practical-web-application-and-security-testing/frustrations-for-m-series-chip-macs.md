@@ -6,3 +6,8 @@ description: >-
 
 # 😡 Frustrations for M-Series Chip Macs
 
+### UPDATE:
+
+
+
+There's a new course!
